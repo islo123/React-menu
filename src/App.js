@@ -25,7 +25,7 @@ const App = function (){
 
   return (
     <div>
-      hello
+      
       <Categories filterBtn={filterBtn} categories={categories}/>
       <Menu menuItems={menuItems}/>
     </div>
